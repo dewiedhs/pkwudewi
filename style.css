@@ -8,7 +8,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'open sans',sans-serif;
-    background-color: #dee2e6;
+    background-color: #bbc5cf;
 }
 
 .wrapper {
@@ -16,6 +16,7 @@ body {
     margin: auto;
     position: relative;
 }
+
 
 .logo a {
    font-size: 40px;
@@ -37,9 +38,9 @@ nav {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    background: #a6bcc7;
+    background: #728694;
     z-index: 1;
-    border-bottom: 1px solid #09497a;
+    border-bottom: 1px solid #074361;
 }
 
 nav ul {
@@ -72,8 +73,8 @@ section {
 }
 
 .kolom {
-    margin-top: 300px;
-    margin-bottom: 700px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .kolom .deskripsi {
@@ -92,38 +93,6 @@ h2 {
     line-height: 50px;
 
 }
-
-a.tbl-biru {
-    background: #09497a;
-    border-radius: 20px;
-    margin-top: 20px;
-    padding: 15px 20px 15px 20px;
-    color: #FFFFFF;
-    cursor: pointer;
-    font-weight: bold;
-}
-
-a.tbl-biru:hover {
-    background: #427D9D;
-    text-decoration: none;
-}
-
- a.tbl-biru {
-    color: #09497a;
-    background: #09497a;
-    border-radius: 20px;
-    margin-top: 20px;
-    padding: 15px 20px 15px 20px;
-    color: #FFFFFF;
-    cursor: pointer;
-    font-weight: bold;
-}
-
-a.tbl-biru:hover {
-    background: #427D9D;
-    text-decoration: none;
-}
-
 p {
     margin: 10px 0px 10px 0px;
     padding: 10px 0px 10px 0px;
